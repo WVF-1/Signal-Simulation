@@ -1,0 +1,12 @@
+intersection,approach_0_edge_in,approach_0_edge_out,approach_1_edge_in,approach_1_edge_out,green_ratio_0
+Forbes & Grant St,forbes_entry,forbes_seg1,cross_grant,,0.5
+Forbes & Smithfield St,forbes_seg1,forbes_seg2,cross_smithfield,,0.5
+Forbes & Wood St,forbes_seg2,forbes_seg3,cross_wood,,0.5
+Forbes & Fifth (Merge),forbes_seg3,combined_seg1,fifth_seg5,combined_seg1,0.5
+Forbes & Stanwix St,combined_seg1,combined_seg2,cross_stanwix,,0.8
+Forbes & Fort Pitt Bridge,combined_seg2,,cross_fortpitt,,0.8
+Fifth & Craig St,fifth_entry,fifth_seg1,cross_craig,,0.5
+Fifth & Bigelow Blvd,fifth_seg1,fifth_seg2,cross_bigelow,,0.5
+Fifth & Bellefield Ave,fifth_seg2,fifth_seg3,cross_bellefield,,0.5
+Fifth & Halket St,fifth_seg3,fifth_seg4,cross_halket,,0.5
+Fifth & Dithridge St,fifth_seg4,fifth_seg5,cross_dithridge,,0.5
